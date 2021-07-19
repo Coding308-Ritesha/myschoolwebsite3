@@ -1,0 +1,82 @@
+
+.announcement{
+    background-color: paleturquoise;
+    color: darkblue;
+    font-size: 16px;
+    width: 100%;
+}
+#video{
+    text-align: center;
+}
+.contactus_a{
+    text-shadow: none;
+}
+
+
+iframe {
+    width: 100%;
+}
+
+h3 {
+    display: inline;
+    
+}
+
+.contact_1 {
+    text-align: left;
+}
+
+kbd {
+    font-size: 15px;
+}
+
+.text-success {
+    text-align: center;
+}
+
+.achievement-cps{
+    background-color: blue;
+}
+
+
+.myown img {
+    width: 450px;
+    height: 300px;
+}
+
+hr {
+    background-color: darkblue;
+}
+
+
+
+.row {
+    display: inline;
+}
+
+h9{
+    background-color: aquamarine;
+}
+
+
+.achievementscps span, i {
+    background-color: aqua;
+    
+    
+}
+.envnews_li {
+    margin-top: 13px;
+}
+
+.envnews_li h4 {
+    border-bottom: 2px solid white;
+    padding: 8px;
+}
+
+.envnews_li img{
+    border-radius: 25px;
+}
+
+.envnews_li p{
+    margin-top: 10px;
+}
